@@ -1,0 +1,12 @@
+ip: "127.0.0.1"
+port: 8081
+api:
+  max_number: 100000
+usecase:
+  default_count: "0"
+db:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "p" 
+  dbname: "count"

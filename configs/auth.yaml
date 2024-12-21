@@ -1,0 +1,10 @@
+ip: "127.0.0.1"
+port: 8082
+api:
+usecase:
+db:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "p" 
+  dbname: "users"
